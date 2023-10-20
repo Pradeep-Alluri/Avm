@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<groupHaul xmlns:a="http://www.appian.com/ae/types/2009">
+    <versionUuid>e76aede0-ce2a-4ff2-9edd-ecae706f81bd</versionUuid>
+    <group>
+        <name>ETX Users</name>
+        <securityMap>SECURITYMAP_TEAM</securityMap>
+        <uuid>e76aede0-ce2a-4ff2-9edd-ecae706f81bd</uuid>
+        <groupTypeUuid>SYSTEM_GROUP_TYPE_CUSTOM</groupTypeUuid>
+        <description>Assigns Viewer permissions to users for objects in the application</description>
+        <delegatedCreation>false</delegatedCreation>
+        <memberPolicy>MEMBERPOLICY_CLOSED</memberPolicy>
+        <viewingPolicy>VIEWINGPOLICY_LOW</viewingPolicy>
+        <attributes/>
+    </group>
+    <members>
+        <users/>
+        <groups>
+            <groupUuid>200beb3f-8f3f-4318-a2d4-ea2f21b540b3</groupUuid>
+        </groups>
+    </members>
+    <admins>
+        <users/>
+        <groups>
+            <groupUuid>200beb3f-8f3f-4318-a2d4-ea2f21b540b3</groupUuid>
+        </groups>
+    </admins>
+    <ruleSet/>
+    <history>
+        <historyInfo versionUuid="e76aede0-ce2a-4ff2-9edd-ecae706f81bd"/>
+    </history>
+</groupHaul>

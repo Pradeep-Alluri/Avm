@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<processModelFolderHaul xmlns:a="http://www.appian.com/ae/types/2009">
+    <versionUuid>a2bd5462-65b7-43f4-ad18-2b14e78215b9</versionUuid>
+    <processModelFolder>
+        <name>ETX Process Models</name>
+        <uuid>3cd551bd-f4ee-42b8-897b-0e0bc1bad97f</uuid>
+        <description>Stores process models for the application</description>
+    </processModelFolder>
+    <roleMap>
+        <role name="ADMIN_OWNER">
+            <users/>
+            <groups>
+                <groupUuid>200beb3f-8f3f-4318-a2d4-ea2f21b540b3</groupUuid>
+            </groups>
+        </role>
+        <role name="EDITOR">
+            <users/>
+            <groups/>
+        </role>
+        <role name="EXPLICIT_NONMEMBER">
+            <users/>
+            <groups/>
+        </role>
+        <role name="VIEWER">
+            <users/>
+            <groups>
+                <groupUuid>e76aede0-ce2a-4ff2-9edd-ecae706f81bd</groupUuid>
+            </groups>
+        </role>
+        <role name="MANAGER">
+            <users/>
+            <groups/>
+        </role>
+        <role name="INITIATOR">
+            <users/>
+            <groups/>
+        </role>
+    </roleMap>
+    <history>
+        <historyInfo versionUuid="a2bd5462-65b7-43f4-ad18-2b14e78215b9"/>
+    </history>
+</processModelFolderHaul>

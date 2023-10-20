@@ -1,0 +1,4 @@
+com.exlservice.plugins
+JSON To Excel
+1.0.0
+

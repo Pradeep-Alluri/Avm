@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<contentHaul xmlns:a="http://www.appian.com/ae/types/2009">
+    <versionUuid>_a-0000e9cd-2c33-8000-740f-01ef9001ef90_7122</versionUuid>
+    <constant>
+        <name>ETX_PM_EXPORT_JSON_TO_EXCEL</name>
+        <uuid>_a-0000e9cd-2c33-8000-740f-01ef9001ef90_7073</uuid>
+        <description>Constant to hold the Export Json to Excel Process Model</description>
+        <parentUuid>_a-0000e9cd-2c33-8000-740f-01ef9001ef90_6948</parentUuid>
+        <visibility>
+            <advertise>false</advertise>
+            <hierarchy>true</hierarchy>
+            <indexable>true</indexable>
+            <quota>false</quota>
+            <searchable>true</searchable>
+            <system>false</system>
+            <unlogged>false</unlogged>
+        </visibility>
+        <typedValue>
+            <type>
+                <name>ProcessModel?list</name>
+                <namespace>http://www.appian.com/ae/types/2009</namespace>
+            </type>
+            <value>
+                <el>0002e9cf-a56f-8000-74c7-014d98014d98</el>
+                <el>0005e9cf-a9f6-8000-74cc-014d98014d98</el>
+                <el>0005e9cf-ab95-8000-74d1-014d98014d98</el>
+                <el>0007e9cf-d0d8-8000-74e1-014d98014d98</el>
+            </value>
+        </typedValue>
+        <isEnvironmentSpecific>false</isEnvironmentSpecific>
+    </constant>
+    <roleMap public="true">
+        <role inherit="true" allowForAll="false" name="readers">
+            <users/>
+            <groups/>
+        </role>
+        <role inherit="true" allowForAll="false" name="authors">
+            <users/>
+            <groups/>
+        </role>
+        <role inherit="true" allowForAll="false" name="administrators">
+            <users/>
+            <groups/>
+        </role>
+        <role inherit="false" allowForAll="false" name="denyReaders">
+            <users/>
+            <groups/>
+        </role>
+        <role inherit="false" allowForAll="false" name="denyAuthors">
+            <users/>
+            <groups/>
+        </role>
+        <role inherit="false" allowForAll="false" name="denyAdministrators">
+            <users/>
+            <groups/>
+        </role>
+    </roleMap>
+    <history>
+        <historyInfo versionUuid="_a-0000e9cd-2c33-8000-740f-01ef9001ef90_7122"/>
+    </history>
+</contentHaul>
